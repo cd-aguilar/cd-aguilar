@@ -1,5 +1,5 @@
 ## Hi there 👋<h1 align="center">Hi 👋, I'm Daro-Dev</h1>
-<h1 align="center">Hi 👋, I'm Daro-Dev</h1>
+
 <h3 align="center">A passionate cybersecurity AI developer from Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cd-aguilar&label=Profile%20views&color=0e75b6&style=flat" alt="cd-aguilar" /> </p>

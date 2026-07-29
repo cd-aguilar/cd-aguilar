@@ -22,7 +22,7 @@ I build things to learn them properly: local RAG systems, AI agents, automations
 ## 🌐 Find me elsewhere
 
 - Portfolio & blog: [aigis-cloud.com](https://aigis-cloud.com)
-- LinkedIn:in/cesar-dario-aguilar-ai
+- LinkedIn: in/cesar-dario-aguilar-ai
 - Email: cdario.a@gmail.com
 
 ---

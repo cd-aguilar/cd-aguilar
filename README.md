@@ -17,8 +17,9 @@ I build things to learn them properly: local RAG systems, AI agents, automations
 
 ## 📂 Featured projects
 
-- **[local-rag-second-brain](https://github.com/cd-aguilar/local-rag-second-brain)** — fully local RAG pipeline for querying an Obsidian vault, no cloud APIs.
-
+- **[rag-api-cloud](https://github.com/cd-aguilar/rag-api-cloud)** — RAG API en AWS: FastAPI + Bedrock, Terraform (VPC/ALB/ECS Fargate), CI/CD vía OIDC sin credenciales estáticas.
+- **[aigis-detect](https://github.com/cd-aguilar/aigis-detect)** — SOC lab: SIEM (Elastic + Wazuh), SOAR (TheHive + n8n), DFIR (Velociraptor) y un agente de triage con IA local.
+- **[local-rag-second-brain](https://github.com/cd-aguilar/local-rag-second-brain)** — pipeline RAG 100% local sobre un vault de Obsidian, sin APIs cloud.
 ## 🌐 Find me elsewhere
 
 - Portfolio & blog: [aigis-cloud.com](https://aigis-cloud.com)
